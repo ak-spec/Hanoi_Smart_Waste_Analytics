@@ -1,0 +1,5 @@
+{
+  "name": "Hanoi Smart Waste Analytics",
+  "description": "A smart city dashboard for monitoring municipal solid waste in Hanoi using simulated IoT data. Features waste composition analysis, anomaly detection, and AI-driven policy insights.",
+  "requestFramePermissions": []
+}
